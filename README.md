@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nurahmed! <br/><a href="https://github.com/joshmadakor1">Computer Engineering Undergraduate</a> <a href="https://www.linkedin.com/in/joshmadakor/"> and programmer</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Nurahmed! <br/><a href="https://github.com/joshmadakor1">Computer Engineering Undergraduate</a> <a href="https://www.linkedin.com/in/joshmadakor/"> and Programmer</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Computer Engineering Projects:</h2>
 
